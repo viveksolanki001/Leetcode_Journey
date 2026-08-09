@@ -13,6 +13,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/viveksolanki001/Leetcode_Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/viveksolanki001/Leetcode_Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/viveksolanki001/Leetcode_Journey/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
+| [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/viveksolanki001/Leetcode_Journey/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3664-two-letter-card-game](https://github.com/viveksolanki001/Leetcode_Journey/tree/master/3664-two-letter-card-game) |
 ## Heap (Priority Queue)
 |  |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/viveksolanki001/Leetcode_Journey/tree/master/0001-two-sum) |
+| [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/viveksolanki001/Leetcode_Journey/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3664-two-letter-card-game](https://github.com/viveksolanki001/Leetcode_Journey/tree/master/3664-two-letter-card-game) |
 ## Math
 |  |
@@ -67,4 +69,8 @@
 |  |
 | ------- |
 | [3664-two-letter-card-game](https://github.com/viveksolanki001/Leetcode_Journey/tree/master/3664-two-letter-card-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/viveksolanki001/Leetcode_Journey/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 <!---LeetCode Topics End-->
