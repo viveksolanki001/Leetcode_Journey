@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/viveksolanki001/Leetcode_Journey/tree/master/0001-two-sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/viveksolanki001/Leetcode_Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/viveksolanki001/Leetcode_Journey/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -27,4 +28,12 @@
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/viveksolanki001/Leetcode_Journey/tree/master/3536-maximum-product-of-two-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/viveksolanki001/Leetcode_Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/viveksolanki001/Leetcode_Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
